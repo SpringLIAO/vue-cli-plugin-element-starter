@@ -1,11 +1,11 @@
 {
-  "name": "vue-cli-plugin-element",
-  "version": "1.0.0",
+  "name": "vue-cli-plugin-element-starter",
+  "version": "1.0.1",
   "description": "vue-cli 3 plugin to add element-ui",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ElementUI/vue-cli-plugin-element.git"
+    "url": "https://github.com/SpringLIAO/vue-cli-plugin-element-starter.git"
   },
   "keywords": [
     "element",
@@ -15,10 +15,10 @@
     "plugin",
     "cli"
   ],
-  "author": "Leopoldthecoder",
+  "author": "SpringLiao <www.389055604@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ElementUI/vue-cli-plugin-element/issues"
+    "url": "https://github.com/SpringLIAO/vue-cli-plugin-element-starter/issues"
   },
-  "homepage": "https://github.com/ElementUI/vue-cli-plugin-element#readme"
+  "homepage": "https://github.com/SpringLIAO/vue-cli-plugin-element-starter"
 }

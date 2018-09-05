@@ -1,5 +1,5 @@
-# vue-cli-plugin-element
-Element plugin for `@vue/cli` 3.0.
+# vue-cli-plugin-element-starter
+Element plugin for `@vue/cli` 3.0.Forked from [`vue-cli-plugin-element`](https://github.com/ElementUI/vue-cli-plugin-element).
 
 ### Install
 
@@ -10,7 +10,7 @@ Then create a project and add the Element plugin:
 ```bash
 vue create my-app
 cd my-app
-vue add element
+vue add element-starter
 ```
 
 You'll be asked some questions regarding how Element is configured in your project. After that, you're good to go.
