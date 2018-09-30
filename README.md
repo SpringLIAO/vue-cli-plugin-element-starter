@@ -1,4 +1,9 @@
 # vue-cli-plugin-element-starter
+
+[![npm (tag)](https://img.shields.io/npm/v/vue-cli-plugin-element-starter/latest.svg)](https://www.npmjs.com/package/vue-cli-plugin-element-starter)
+[![](https://img.shields.io/badge/element-2.4.7-red.svg)](https://github.com/ElemeFE/element)
+
+
 Element plugin for `@vue/cli` 3.0.Forked from [`vue-cli-plugin-element`](https://github.com/ElementUI/vue-cli-plugin-element).
 
 ### Install
